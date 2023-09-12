@@ -1,0 +1,13 @@
+2023-09-12 23:54:07,982 INFO  [main] Initializing WebDriver
+2023-09-12 23:54:10,612 INFO  [main] Initializing WebDriver
+2023-09-12 23:54:10,614 INFO  [main] Initializing WebDriver
+2023-09-12 23:54:12,069 INFO  [main] Clicking on element jira.loginPage.loginContinueButton
+2023-09-12 23:54:12,707 INFO  [main] Clicking on element jira.loginPage.loginSubmitButton
+2023-09-12 23:54:12,736 INFO  [main] Initializing WebDriver
+2023-09-12 23:54:15,219 INFO  [main] Clicking on element jira.loginPage.jiraManagement
+2023-09-12 23:54:18,231 INFO  [main] Clicking on element jira.header.create.menuButton
+2023-09-12 23:54:18,589 INFO  [main] Clicking on element jira.issueType.dropDownButton
+2023-09-12 23:54:19,345 INFO  [main] Clicking on element jira.issueType.bug
+2023-09-12 23:54:22,233 INFO  [main] Clicking on element jira.create.issue.submitButton
+2023-09-12 23:54:22,387 INFO  [main] Initializing WebDriver
+2023-09-12 23:54:22,405 INFO  [main] Quitting WebDriver
